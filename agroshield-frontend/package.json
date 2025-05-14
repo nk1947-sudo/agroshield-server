@@ -1,0 +1,37 @@
+{
+  "name": "agroshield-frontend",
+  "version": "1.0.0",
+  "description": "A static React + TypeScript web application for managing agricultural inspections and enforcement.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "typescript",
+    "agriculture",
+    "inspections",
+    "frontend"
+  ],
+  "author": "Shaurya Infotech",
+  "license": "MIT",
+  "dependencies": {
+    "lucide-react": "^0.268.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.1.0",
+    "recharts": "^2.1.0",
+    "tailwindcss": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "autoprefixer": "^10.2.6",
+    "jest": "^27.0.6",
+    "postcss": "^8.3.9",
+    "typescript": "^4.4.4",
+    "vite": "^4.2.0"
+  }
+}
